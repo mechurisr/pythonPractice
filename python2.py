@@ -1,3 +1,5 @@
+
+#두 개 뽑아서 더하기
 numbers = [2,1,3,4,1]
 
 def solution(numbers):
